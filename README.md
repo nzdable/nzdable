@@ -28,7 +28,7 @@ I believe technology is at its best when it helps people create, connect, and so
 **BS Computer Science** — Ateneo de Davao University · Class of 2026
 
 - Graduated **Summa Cum Laude**
-- **School Award** in Computer Science (School of Arts &amp; Sciences)
+- **School Award** in Computer Studies (School of Arts &amp; Sciences)
 - **AWS Certified Cloud Practitioner**
 
 ---
